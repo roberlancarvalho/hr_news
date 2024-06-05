@@ -1,0 +1,33 @@
+name: noticias
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_size_text: ^3.0.0
+  url_launcher: ^6.0.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image1.png
+    - assets/image2.png
+    - assets/image3.png
+    - assets/calor.png
+    - assets/lula.png
+    - assets/clinica.png
+    - assets/premio.png
+    - assets/hcm.png
+    - assets/rio.png
+    - assets/tech.png
+    - assets/fronteiras.png
