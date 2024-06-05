@@ -3,7 +3,7 @@
 Projeto de um aplicativo de notícias construído com Flutter como projeto para a disciplina de Programação Para Aplicativos Móveis do curso de Sistemas de Informação da Unicatólica de Quixadá - semestre: 1/2024. Este app contém notícias de forma estática (ainda), com categorias e menu.
 
 <div style="text-align: center;">
-  <img src="assets/mockup.png" alt="App de Notícias em Flutter" style="width:50%;"/>
+  <img src="assets/mockup.png" alt="App de Notícias em Flutter" style="width:40%;"/>
 </div>
 
 Dupla: [Roberlan Carvalho](https://github.com/roberlancarvalho/) e [Hayssa Martins](https://github.com/hayssamartinsdev)
