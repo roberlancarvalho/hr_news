@@ -4,6 +4,8 @@ Projeto de um aplicativo de notícias construído com Flutter como projeto para 
 
 ![App de Notícias em Flutter](assets/mockup.png)
 
+<img src="assets/mockup.png" alt="App de Notícias em Flutter" style="width:40%;"/>
+
 Dupla: [Roberlan Carvalho](https://github.com/roberlancarvalho/) e [Hayssa Martins](https://github.com/hayssamartinsdev)
 
 ## Iniciando
