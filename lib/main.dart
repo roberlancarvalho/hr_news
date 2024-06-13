@@ -1,22 +1,24 @@
 import 'package:flutter/material.dart';
+import 'pagina_inicial.dart';
 
 void main() {
-  runApp(SuperApp());
+  runApp(const MyApp());
 }
 
-class SuperApp extends StatelessWidget {
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SuperApp',
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('SuperApp'),
-        ),
-        body: Center(
-          child: Text('Hello, World!'),
-        ),
+      title: 'HR News',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
       ),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => const PaginaInicial(),
+      },
     );
   }
 }
