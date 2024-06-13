@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'pagina_inicial.dart';
-import 'noticia.dart';
 
 void main() {
   runApp(const MyApp());
